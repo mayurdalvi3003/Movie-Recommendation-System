@@ -12,7 +12,7 @@
 - Step10 :- You will entered into the browser and from there you can access our project
 
 
-### To access our project directly , you can hit the link given below :- 
+### To access our app directly , you can hit the link given below :- 
 https://movie-recommendation-system-5000.streamlit.app/
 
 # Thank You
