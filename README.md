@@ -5,7 +5,7 @@
 - Step3 :- Right click on your mouse and hit show more options button and click on it
 - Step4 :- open git bash here
 - Step5 :- initialize git in that particular folder using command  `git init`
-- Step6 :- Clone the repository using command `git clone `
+- Step6 :- Clone the repository using command `git clone https://github.com/mayurdalvi3003/Movie-Recommendation-System.git`
 - Step7 :- Open Visual Studio Code or any other IDE (make sure you have python setup in your system)
 - Step8 :- click on `app.py` file, which is our streamlit app
 - Step9 :- go to the terminal and type command `streamlit run app.py`
