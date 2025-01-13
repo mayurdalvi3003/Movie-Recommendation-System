@@ -1,6 +1,6 @@
 ![Alt Text](https://github.com/mayurdalvi3003/Movie-Recommendation-System/blob/master/Output%20of%20our%20model.png)
 # How to use this project 
-- Step1 :- firstly download the dataset from (https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) and Download git bash software in your system
+- Step1 :- firstly download the dataset from (`https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata`) and Download git bash software from (`https://git-scm.com/downloads/win`) in your system
 - Step2 :- open the folder in which your all project files are saved
 - Step3 :- Right click in your folder and hit show more options button and click on it
 - Step4 :- open `git bash here`
