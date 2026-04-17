@@ -9,3 +9,4 @@ setuptools
 requests
 beautifulsoup4
 lxml
+mysql-connector-python
