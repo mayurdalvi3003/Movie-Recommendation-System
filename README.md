@@ -13,6 +13,6 @@
 
 
 ### To access our app directly , you can hit the link given below :- 
-https://movie-recommendation-system-5000.streamlit.app/
+https://movie-recommendation-system-f5kz.onrender.com
 
 # Thank You
