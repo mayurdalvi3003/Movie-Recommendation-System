@@ -13,6 +13,6 @@
 
 
 ### To access our app directly , you can hit the link given below :- 
-https://movie-recommendation-system-f5kz.onrender.com
+https://movie-recommendation-system-by-mayur.onrender.com/
 
 # Thank You
